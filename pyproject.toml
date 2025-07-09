@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "darwin"
+name = "linus"
 version = "0.0.0"
-description = "Darwin"
+description = "linus"
 authors = ["Felix Faltings <faltings@csail.mit.edu>", "Peter G Mikhael <pgmikhael@csail.mit.edu>"]
 license = "Apache 2.0"
 readme = "README.md"
-repository = "https://github.com/pgmikhael/darwin"
+repository = "https://github.com/pgmikhael/linus"
 
 
 [tool.poetry.dependencies]
